@@ -3,5 +3,5 @@
 
 <p><i>Soy un desarrollador de aplicaciones web, apasianado por la creación de proyectos que conllevan retos. La satisfación al resolver algo que nunca has visto es una de las mejores sensaciones de este trabajo. Encantado de conoceros y espero que mi repositorio os ayude!</i></p>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/jakson-torres/)](https://www.linkedin.com/jakson-torres/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jakson-torres/)](https://www.linkedin.com/in/jakson-torres/)
 
