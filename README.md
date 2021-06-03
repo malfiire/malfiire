@@ -2,3 +2,4 @@
 
 
 <p><i>Soy un desarrollador de aplicaciones web, apasianado por la creación de proyectos que conlleven retos.</i></p>
+<p><i>Encantado de conoceros y espero que mis proyectos os ayuden!</i></>
