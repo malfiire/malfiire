@@ -8,9 +8,13 @@
 
 
 ```c#
+public abstract class Profesional
+{
+  public abstract double DuplicarSueldo(double sueldo);
+}
+    
 public class Jakson : Profesional
 {
-
   public string Nombre {get; set;}
   public string Apellidos {get; set;}
   public string[] Lenguajes {get; set;}
@@ -20,6 +24,9 @@ public class Jakson : Profesional
     Apellidos = "Torres Ruano";
     Lenguajes = ["C#","JavaScript","Java", "PHP"];
   }
+  
+  public override double DuplicarSueldo(double sueldo) => sueldo * 2;
+  
   
 }
 ```
