@@ -3,8 +3,23 @@
 
 <p><i>Soy un desarrollador de aplicaciones web, apasianado por la creación de proyectos que conllevan nuevos retos. La satisfación al resolver algo que nunca has visto es una de las mejores sensaciones de este trabajo. Encantado de conoceros y espero que mi repositorio os ayude!</i></p>
 
+[![Linkedin: Jakson%20Torres](https://img.shields.io/badge/-Jakson%20Torres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jakson-torres/)](https://www.linkedin.com/in/jakson-torres/)
+[![](https://img.shields.io/badge/Gmail-jaksontl12@gmail.com-orange)](mailto:jaksontl12@gmail.com)
 
 
-[![](https://img.shields.io/badge/LinkedIn-Jakson%20Torres-blue)](https://www.linkedin.com/in/jakson-torres/)
-[![](https://img.shields.io/badge/Gmail-jaksontl12@gmail.com-red)](mailto:jaksontl12@gmail.com)
+```c#
+public class Jakson : Profesional
+{
 
+  public string Nombre {get; set;}
+  public string Apellidos {get; set;}
+  public string[] Lenguajes {get; set;}
+  
+  public Jakson(){
+    Nombre = "Jakson";
+    Apellidos = "Torres Ruano";
+    Lenguajes = ["C#","JavaScript","Java", "PHP"];
+  }
+  
+}
+```
