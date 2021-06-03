@@ -6,5 +6,5 @@
 
 
 [![](https://img.shields.io/badge/LinkedIn-Jakson%20Torres-blue)](https://www.linkedin.com/in/jakson-torres/)
-[![](https://img.shields.io/badge/Gmail-jaksontl12@gmail.com-red)](https://mail.google.com/mail/u/0/?tab=km#inbox)
+[![](https://img.shields.io/badge/Gmail-jaksontl12@gmail.com-red)](mailto:ashrafkm010@gmail.com)
 
