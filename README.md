@@ -8,25 +8,17 @@
 
 
 ```c#
-public abstract class Profesional
+
+public class Desarrollador
 {
-  public abstract double DuplicarSueldo(double sueldo);
-}
-    
-public class Jakson : Profesional
-{
-  public string Nombre {get; set;}
-  public string Apellido {get; set;}
-  public string[] Lenguajes {get; set;}
+  private string Nombre {get; set;}
+  private string Apellido {get; set;}
+  private string[] Lenguajes {get; set;}
   
-  public Jakson(){
+  public Desarrollador(){
     Nombre = "Jakson";
     Apellido = "Torres";
     Lenguajes = ["C#","JavaScript","Java", "PHP"];
-  }
-  
-  public override double DuplicarSueldo(double sueldo) => sueldo * 2;
-  
-  
+  }  
 }
 ```
