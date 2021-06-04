@@ -16,12 +16,12 @@ public abstract class Profesional
 public class Jakson : Profesional
 {
   public string Nombre {get; set;}
-  public string Apellidos {get; set;}
+  public string Apellido {get; set;}
   public string[] Lenguajes {get; set;}
   
   public Jakson(){
     Nombre = "Jakson";
-    Apellidos = "Torres Ruano";
+    Apellido = "Torres";
     Lenguajes = ["C#","JavaScript","Java", "PHP"];
   }
   
