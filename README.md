@@ -6,6 +6,7 @@
 [![Linkedin: Jakson%20Torres](https://img.shields.io/badge/-Jakson%20Torres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jakson-torres/)](https://www.linkedin.com/in/jakson-torres/)
 [![](https://img.shields.io/badge/Gmail-jaksontl12@gmail.com-orange)](mailto:jaksontl12@gmail.com)
 
+<h2>Mis habilidades</h2>
 
 ```c#
 
@@ -14,11 +15,15 @@ public class Desarrollador
   private string Nombre {get; set;}
   private string Apellido {get; set;}
   private string[] Lenguajes {get; set;}
+  private string[] Frameworks {get; set;}
+  private string[] Bases_De_Datos {get; set;}
   
   public Desarrollador(){
     Nombre = "Jakson";
     Apellido = "Torres";
     Lenguajes = ["C#","JavaScript","Java", "PHP"];
+    Frameworks = ["Angular", "Blazor"];
+    Bases_De_Datos  = ["SqlServer, MySql", "CosmosDb", "DynamoDb"]
   }  
 }
 ```
