@@ -21,13 +21,14 @@
         {
             Nombre = "Jakson Torres";
             
+            Microsoft = new string []{"SharePoint Online", "Web-Parts-React", "Power Apps", "Power Automate"}
+            
             Lenguajes = new string[]{ "C#","JavaScript", "TypeScript", "Java", "PHP"};
             
             Bases_De_Datos = new string[]{"SQL Server", "MySQL", "CosmosDb", "DynamoDb"};
             
             Frameworks = new string[]{"React","Angular", "Blazor"};
             
-            Microsoft = new string []{"SharePoint Online", "Web-Parts-React", "Power Apps", "Power Automate"}
         }
 
     }
