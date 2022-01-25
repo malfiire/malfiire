@@ -21,7 +21,7 @@
         {
             Nombre = "Jakson Torres";
             
-            Microsoft = new string []{"SharePoint Online", "Web-Parts-React", "Power Apps", "Power Automate"}
+            Microsoft 365 = new string []{"SharePoint Online", "Web-Parts-React", "Power Apps", "Power Automate"}
             
             Lenguajes = new string[]{ "C#","JavaScript", "TypeScript", "Java", "PHP"};
             
