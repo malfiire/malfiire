@@ -4,7 +4,7 @@
 <p><i>Desarrallor Full Stack, apasionado por las tecnologías cloud.</i></p>
 
 [![Linkedin: Jakson%20Torres](https://img.shields.io/badge/-Jakson%20Torres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jakson-torres/)](https://www.linkedin.com/in/jakson-torres/)
-[![](https://img.shields.io/badge/Gmail-jaksontl12@gmail.com-orange)](mailto:jaksontl12@gmail.com)
+[![](https://img.shields.io/badge/Gmail-jakson.torres.dev@gmail.com-orange)](mailto:jakson.torres.dev@gmail.com)
 
 <h2>📡Conóceme un poco más!</h2>
 
