@@ -11,11 +11,11 @@
 ```c#
  public class Desarrollador
     {
-        public string Nombre { get; set; }
-        public string[] Lenguajes { get; set; }
-        public string[] Bases_De_Datos { get; set; }
-        public string[] Frameworks { get; set; }
-        public string[] Microsoft_365 { get; set; }
+        public string Nombre { get; }
+        public string[] Lenguajes { get; }
+        public string[] Bases_De_Datos { get; }
+        public string[] Frameworks { get; }
+        public string[] Microsoft_365 { get; }
         
         public Desarrollador()
         {
